@@ -27,6 +27,8 @@ Speech-to-Text	SpeechRecognition, Google API
 NLP / Intent Classification	spaCy / NLTK / Transformer model (depending on version)
 Text-to-Speech	pyttsx3 / gTTS
 Optional Enhancements	transformers, deep learning models
+
+*/-----------------------------------------------------------------*/
 📂 Project Structure
 📁 AI-Voice-Assistant
  ┣ 📁 models
